@@ -5,7 +5,7 @@ Proyek ini adalah aplikasi prediksi produksi minyak berbasis website menggunakan
 Ikuti langkah-langkah berikut utk menjalankan Aplikasi:
 1. **Clone Repository**
    git clone https://github.com/egikarnia/simulasiPrediksiProduksiOil.git
-2. **Install Library/Pustaka* 
+2. **Install Library/Pustaka**
    pip install -r requirements.txt
 3. Jalankan Aplikasi:
    py -m streamlit run app.py
